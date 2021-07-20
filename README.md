@@ -1,5 +1,3 @@
-1. Search Movies
+## Search Movies demo-project.
 
-He used the following technologies in the project:
-
-ReactJS, Bootstrap, CSS, HTML, API - moviedb
+An application used to filter data form Movies based on user preference, built with React, JavaScript, and CSS, API - moviedb
